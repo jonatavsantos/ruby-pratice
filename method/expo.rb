@@ -14,7 +14,7 @@ when 1
         calc = base ** expoente
     end
 
-puts response(base, expoente)
+puts "The result of the operation is: ", response(base, expoente)
 
 when 2
     break
