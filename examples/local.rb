@@ -1,5 +1,5 @@
 def my_name
-    print 'insira seu nome: '
+    print 'Type your name: '
     name = gets.chomp
 
     puts name
